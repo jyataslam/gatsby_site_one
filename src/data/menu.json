@@ -22,15 +22,15 @@
         ]
     },
     {
-        "title": "company",
+        "title": "about",
         "path": "/company"
     },
     {
-        "title": "project",
+        "title": "providers",
         "path": "/project"
     },
     {
-        "title": "single project",
+        "title": "services",
         "path": "/project/smart-business"
     },
     {
@@ -38,7 +38,7 @@
         "path": "/blog"
     },
     {
-        "title": "single blog",
+        "title": "testimonials",
         "path": "/black-down-in-the-water"
     },
     {

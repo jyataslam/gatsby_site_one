@@ -13,9 +13,9 @@ exports.components = {
   "component---src-pages-company-js": hot(preferDefault(require("/Users/jyataslam/Desktop/gatsby_website_one/src/pages/company.js"))),
   "component---src-pages-contact-js": hot(preferDefault(require("/Users/jyataslam/Desktop/gatsby_website_one/src/pages/contact.js"))),
   "component---src-pages-index-banner-js": hot(preferDefault(require("/Users/jyataslam/Desktop/gatsby_website_one/src/pages/index-banner.js"))),
+  "component---src-pages-index-main-js": hot(preferDefault(require("/Users/jyataslam/Desktop/gatsby_website_one/src/pages/index-main.js"))),
   "component---src-pages-index-particle-js": hot(preferDefault(require("/Users/jyataslam/Desktop/gatsby_website_one/src/pages/index-particle.js"))),
   "component---src-pages-index-slider-js": hot(preferDefault(require("/Users/jyataslam/Desktop/gatsby_website_one/src/pages/index-slider.js"))),
-  "component---src-pages-index-video-js": hot(preferDefault(require("/Users/jyataslam/Desktop/gatsby_website_one/src/pages/index-video.js"))),
   "component---src-pages-index-js": hot(preferDefault(require("/Users/jyataslam/Desktop/gatsby_website_one/src/pages/index.js"))),
   "component---src-pages-project-js": hot(preferDefault(require("/Users/jyataslam/Desktop/gatsby_website_one/src/pages/project.js")))
 }

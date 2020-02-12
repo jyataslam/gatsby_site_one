@@ -1,20 +1,20 @@
 [
     {
         "id": "video_hero_section_content",
-        "title": "TheRN is placeholder text used's commonly in the graphic, print, and publishing mockups.",
-        "date": "EXPERTS SINCE 1995",
+        "title": "ChiroMed Health Center",
+        "date": "Chiropractor | Wellness Center | Acupuncture",
         "btn_link": "/index-video",
         "video_link": "https://www.youtube.com/watch?v=ZOoVOfieAF8"
     }, 
     {
         "id": "video_story_section_contnet",
-        "title": "Our clients usually say that our comprtomise with innovation and the strategy.",
+        "title": "About ChiroMed Health Center",
         "subtitle": "Our Story",
-        "image": "./images/about.jpg",
+        "image": "./images/crystal_newheadshot.JPG",
         "path": "/company",
         "content": [
-            "It's difficult to find examples of lorem ipsum in use before Letraset made it popular as a dummy text in the 1960s, although McClintock says he remembers coming across the lorem ipsum passage in a book of old metal type samples. So far he hasn't relocated where he once saw the passage, but the popularity of Cicero in the 15th century supports the theory that the filler text has been used for centuries.",
-            "So how did the classical Latin become so incoherent? According to McClintock, a 15th century typesetter likely scrambled."
+            "Living with chronic pain and impaired function can take much of the joy out of daily life. At ChiroMed Health Center in Santa Ana, California, Dr. Mark Gutierrez offers chiropractic care using a powerful combination of traditional healing methods and state-of-the-art technology.",
+            "ChiroMed Health Center was founded on the belief that your chiropractor should be a partner in your lifetime health journey. To that end, Dr. Gutierrez strives to not only treat your current condition, but to also give you the information and tools you need to effectively manage your own health even after treatment is complete."
         ]
     },
     {

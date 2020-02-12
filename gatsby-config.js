@@ -6,13 +6,13 @@
 
 module.exports = {
   siteMetadata: {
-    title: "TheRN",
-    titleTemplate: `Creative Agency React Gatsby Template`,
-    description: `TheRN specially built for Creative Agency, Corporate website, Portfolio website, Photographer, Personal Portfolio and all kinds of Personal Portfolio & Business and others. This Modern and Professional template offers Modern animation, Smooth Scrolling Animation sites etc.`,
-    author: `@RainbowThemes`,
-    twitterUsername: `@RainbowThemes`,
+    title: "ChiroMed Health Center",
+    titleTemplate: `ChiroMed Health Center`,
+    description: `ChiroMed Health Center || Wellness Center || Acupuncture`,
+    author: `Huntington Digital`,
+    twitterUsername: `@huntingtondigitaloc`,
     image: 'bg-image-1.jpg',
-    siteUrl: 'http://thern.rainbowit.net/',
+    siteUrl: 'https://www.chiromedhealthcenter.com',
     contact: {
       postal_code: 'PO Box 16122 Collins Street <br/> West Victoria 8007 Australia.',
       address: '121 King Street, Melbourne Victoria 3000 Australia.',
@@ -28,7 +28,7 @@ module.exports = {
         dribbble: 'https://dribbble.com'
       }
     },
-    copyright: "The RN Creative Agency. All Rights Reserved"
+    copyright: "ChiroMed Health Center. All Rights Reserved"
   },
   plugins: [
     `gatsby-plugin-styled-components`,
@@ -40,11 +40,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Thern`,
-        short_name: `Thern`,
+        name: `ChiroMed`,
+        short_name: `ChiroMed`,
         start_url: `/`,
         background_color: `#333333`,
-        theme_color: `#001c43`,
+        theme_color: `#ffac00`,
         display: `standalone`,
         "icons": [
           {

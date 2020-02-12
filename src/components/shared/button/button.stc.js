@@ -18,7 +18,8 @@ const ButtonWrap = styled.button`
         content: "";
         width: 53px;
         height: 1px;
-        background: #dddddd;
+        // background: #dddddd;
+        background: #ffac00;
         right: 0;
         top: 50%;
         transform: translateY(-50%);
@@ -44,14 +45,15 @@ const ButtonWrap = styled.button`
         }
     }
     ${props => props.layout === 2 && css `
-        background: #ff005a;
+        // background: #ff005a;
+        background: #ffac00;
         color: #fff;
         line-height: 1;
         font-weight: 400;
         padding: 27px 25px;
         padding-right: 45px;
         min-height: 66px;
-        border-radius: 5px;
+        border-radius: 35px;
         transition: ${props => props.theme.baseTransition};
         i{
             transition: ${props => props.theme.baseTransition};

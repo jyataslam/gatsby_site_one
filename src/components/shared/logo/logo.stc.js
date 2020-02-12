@@ -6,12 +6,15 @@ export const LogoWrapper = styled.div `
     .white-logo{
         opacity: 1;
         visibility: visible;
+        width: 300px;
     }
     .black-logo{
         position: absolute;
         left: 0;
         top: 0;
         opacity: 0;
+        width: 300px;
+        filter: invert(100%);
         visibility: hidden;
     }
     ${props => props.layout === 'darkHeader' && css `
